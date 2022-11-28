@@ -6,6 +6,7 @@
 
         public string Name { get; set; }
         // public double Area { get; set; }
+        //public double Length { get; set; }
         public double Lat { get; set; }
 
         public double Long { get; set; }
